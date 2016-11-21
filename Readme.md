@@ -1,5 +1,7 @@
 hOCR Shrink
 ===========
+A small script to scale down tesseracts html output to match smaller resolution scans
+
 
 Why?
 ----
